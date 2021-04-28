@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sze hao!
+- 👋 Hi, I’m Sze Hao!
 - 👀 I’m interested in data analytics, web development, and the development of mobile applications.
 - 🌱 I’m currently learning Python, React Native and R :-)
 
